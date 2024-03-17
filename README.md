@@ -48,6 +48,15 @@ Let's make an impact together! Feel free to reach out and let's collaborate on s
       style="max-width: 100%"
     />
   </a>
+  <a href="https://tailwindcss.com/" rel="nofollow">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+      alt="tailwindcss"
+      width="40"
+      height="40"
+      style="max-width: 100%"
+    />
+  </a>
   <a href="https://sass-lang.com" rel="nofollow">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
@@ -66,16 +75,7 @@ Let's make an impact together! Feel free to reach out and let's collaborate on s
       style="max-width: 100%"
     />
   </a>
-  <a href="https://www.figma.com/" rel="nofollow">
-    <img
-      src="https://camo.githubusercontent.com/f32e9cca1f0df0138a8f536217daa54ad21b6913642422f32e3c5c623f3a06b9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667"
-      alt="figma"
-      width="40"
-      height="40"
-      data-canonical-src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      style="max-width: 100%"
-    />
-  </a>
+
   <a href="https://reactjs.org/" rel="nofollow">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -150,15 +150,6 @@ Let's make an impact together! Feel free to reach out and let's collaborate on s
       style="max-width: 100%"
     />
   </a>
-  <a href="https://www.python.org" rel="nofollow">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-      style="max-width: 100%"
-    />
-  </a>
   <a href="https://aws.amazon.com" rel="nofollow">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
@@ -169,6 +160,8 @@ Let's make an impact together! Feel free to reach out and let's collaborate on s
     />
   </a>
 </p>
+
+
 
 
 <!---
