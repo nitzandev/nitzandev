@@ -150,7 +150,7 @@ Let's make an impact together! Feel free to reach out and let's collaborate on s
       style="max-width: 100%"
     />
   </a>
-  <a href="https://aws.amazon.com" rel="nofollow">
+<!--   <a href="https://aws.amazon.com" rel="nofollow">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
       alt="aws"
@@ -158,7 +158,7 @@ Let's make an impact together! Feel free to reach out and let's collaborate on s
       height="40"
       style="max-width: 100%"
     />
-  </a>
+  </a> -->
 </p>
 
 
