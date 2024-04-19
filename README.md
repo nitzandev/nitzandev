@@ -8,7 +8,6 @@
 ## About Me
 - 🎨 I love bringing creativity into web development, adding unique touches to every project.
 - 🧠 Always exploring new areas in software development, working on applications that aim to explore new ideas and approaches.
-- 🤝 I'm excited about collaborating with other creators on impactful open-source projects that contribute to evolving digital experiences.
 - ⚡ Fun fact: I have a knack for synthesizing different sounds! (Yep, I'm a bit of a nerd about it 😄)
 
 ## Connect with Me
