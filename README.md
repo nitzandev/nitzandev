@@ -8,7 +8,7 @@
 ## About Me
 - 🎨 I love bringing creativity into web development, adding unique touches to every project.
 - 🧠 Always exploring new areas in software development, working on applications that aim to explore new ideas and approaches.
-- ⚡ Fun fact: I have a knack for synthesizing different sounds! (Yep, I'm a bit of a nerd about it 😄)
+- ⚡ Fun fact: I am a Guitarist and have a knack for synthesizing different sounds! 🎸
 
 ## Connect with Me
 [LinkedIn](https://www.linkedin.com/in/nitzandahan1/) | [Email](mailto:dahannitzan@gmail.com)
