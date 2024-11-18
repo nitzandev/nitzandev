@@ -65,16 +65,6 @@ Let's make an impact together! Feel free to reach out and let's collaborate on s
       style="max-width: 100%"
     />
   </a>
-  <a href="https://getbootstrap.com" rel="nofollow">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-      style="max-width: 100%"
-    />
-  </a>
-
   <a href="https://reactjs.org/" rel="nofollow">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -121,16 +111,7 @@ Let's make an impact together! Feel free to reach out and let's collaborate on s
       style="max-width: 100%"
     />
   </a>
-  <a href="https://jestjs.io" rel="nofollow">
-    <img
-      src="https://camo.githubusercontent.com/87882410b423221c16582e2f23590a723cb841ef3458ccdc7b13ba8d5bcc0354/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6573746a73696f2f6a6573746a73696f2d69636f6e2e737667"
-      alt="jest"
-      width="40"
-      height="40"
-      data-canonical-src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
-      style="max-width: 100%"
-    />
-  </a>
+  
   <a href="https://www.postgresql.org" rel="nofollow">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
