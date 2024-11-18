@@ -74,16 +74,7 @@ Let's make an impact together! Feel free to reach out and let's collaborate on s
       style="max-width: 100%"
     />
   </a>
-  <a href="https://nextjs.org/" rel="nofollow">
-    <img
-      src="https://camo.githubusercontent.com/b05ddbfbaa85c1b814c44a6853f95899cf7f7a0f68ed9d4de9ab8e8b60f5608a/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6e6578746a732d322e737667"
-      alt="nextjs"
-      width="40"
-      height="40"
-      data-canonical-src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-      style="max-width: 100%"
-    />
-  </a>
+ 
   <a href="https://nodejs.org" rel="nofollow">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
