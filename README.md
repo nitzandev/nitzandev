@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Hi👋, I'm Nitzan Dahan 🚀</b>
+  <b>Hi👋, I'm Nitzan 🚀</b>
 </h1>
 <h3 align="center">
   <b>Software Developer 👨🏻‍💻</b>
